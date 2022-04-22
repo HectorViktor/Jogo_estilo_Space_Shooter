@@ -1,2 +1,2 @@
-# Jogo_estilo_Space_Shooter
-Aula de Javascript da Dio (Digital innovation One)
+# 🛸 Jogo Baseado em Space Shooter 🚀
+Exercícios de aprendizagem prática de fundamentos de Javascript, CSS e HTML.
